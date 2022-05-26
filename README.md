@@ -1,5 +1,5 @@
 # Meax Profile
-<img src="https://pin.it/1FELVaw">
+<img src="https://github.com/xMeax/xMeax/banner.jpg">
 
 ---
 
