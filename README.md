@@ -5,6 +5,6 @@
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMeax">
 </a>
-<!-- <a href="#">
+<a href="#">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xMeax">
-</a> -->
+</a>
