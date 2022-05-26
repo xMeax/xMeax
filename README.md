@@ -1,5 +1,5 @@
 # Meax Profile
-<img src="https://github.com/xMeax/xMeax/blob/main/banner.jpg">
+<img src="https://github.com/xMeax/xMeax/blob/main/banner.png🌀" width="250">
 
 ---
 
